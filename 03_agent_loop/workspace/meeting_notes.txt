@@ -1,0 +1,3 @@
+Q3 planning. Alice: ship search by Oct 15. Bob: blocked on API keys from infra.
+Decision: hire one contractor for the mobile app. Budget cap $40k.
+Action items: Bob to email infra (due Fri). Alice to draft search spec (due Mon).
